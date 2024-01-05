@@ -30,5 +30,7 @@ scikit-learn: For data preprocessing and model evaluation.
 load the dataset, train the model, and see magic.
 # Authors and Acknowledgments
 Team: [Maha Al-Hayajneh Mira Melhem Mirna AbuDhaim Wasan Hawari]
+
 Supervision: Dr. Tamam al Sarhan, University of Jordan.
+
 Acknowledgments: Special thanks to all contributors and supporters of this project.
